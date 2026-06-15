@@ -1,4 +1,4 @@
-package com.ganesh.AiChatBackend.controller;
+package com.ganesh.aichatbackend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
